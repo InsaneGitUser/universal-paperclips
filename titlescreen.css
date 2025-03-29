@@ -1,5 +1,5 @@
 body {
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
  }
@@ -7,6 +7,8 @@ body {
 img {
   width: 350;
   height: 263;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button {
@@ -34,6 +36,8 @@ img {
    text-decoration: none;
    vertical-align: middle;
    outline: none;
+   margin-left: auto;
+   margin-right: auto;
  }
 
 .button:hover {
