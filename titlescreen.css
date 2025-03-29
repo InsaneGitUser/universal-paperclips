@@ -4,6 +4,11 @@ body {
   justify-content: center;
  }
 
+.logo {
+  width: 350;
+  height: 263;
+}
+
 .button {
    border: 1px solid #1a1a1a;
    background: #666666;
