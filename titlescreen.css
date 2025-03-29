@@ -3,6 +3,7 @@ body {
  }
 
 img {
+  display: block;
   width: 350;
   height: 263;
   margin-left: auto;
@@ -10,6 +11,8 @@ img {
 }
 
 .button {
+   display: block;
+  
    border: 1px solid #1a1a1a;
    background: #666666;
   
